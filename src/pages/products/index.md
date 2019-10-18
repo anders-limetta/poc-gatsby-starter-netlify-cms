@@ -70,6 +70,10 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Lotta Westholm
+    quote: >-
+      Jag tycker det här är såå himla bra och smarrigt. Jag skulle alltid dricka
+      Johan & Nyströms kaffe om jag kunde.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
